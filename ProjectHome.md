@@ -1,0 +1,1 @@
+This plugin can work with google plugin for eclipse and let user export the GWT web app to a war file. The export triggers the GWT compile at first, and then export all file under war folder to a .war file.
